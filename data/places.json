@@ -1,1 +1,23 @@
 
+[
+  {
+    "id": 1,
+    "name": "Sanssouci Palace",
+    "category": "castle",
+    "lat": 52.4044,
+    "lng": 13.0367,
+    "rating": 4.9,
+    "description": "UNESCO World Heritage Site",
+    "photo": "assets/images/sanssouci.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Brandenburg Gate Potsdam",
+    "category": "monument",
+    "lat": 52.3988,
+    "lng": 13.0435,
+    "rating": 4.8,
+    "description": "Historic city gate",
+    "photo": "assets/images/brandenburg.jpg"
+  }
+]
